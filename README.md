@@ -1,16 +1,98 @@
-## Hi there 👋
+# 🧑‍💻 Eryck Regis da Silva [<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="25">](https://www.linkedin.com/in/eryck-regis-026b6b356/)
+**`Desenvolvedor Back-end Java`**
 
-<!--
-**Eryckregis/Eryckregis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá Me chamo Eryck Regis da Silva, tenho 18 anos minha naturalidade é Brasilia-DF, Atualmente estou cursando Engenharia de Software na Uniceplac, Sou apaixonado por tecnologia desde criança e estou estudando muito para me tornar um grande desenvolvedor na área de TI.
 
-Here are some ideas to get you started:
+### 💻 Linguagens e Tecnologias
+<img
+    aling="left"
+    alt="java"
+    title="java"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+ />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+ aling="left"
+    alt="java"
+    title="java"
+    width="30px"
+    style="padding-right: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"
+     aling="left"
+    alt="java"
+    title="java"
+    width="30px"
+    style="padding-right: 10px;"
+     />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+      aling="left"
+    alt="java"
+    title="java"
+    width="30px"
+    style="padding-right: 10px;"
+     />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" 
+     aling="left"
+    alt="java"
+    title="java"
+    width="30px"
+    style="padding-right: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    aling="left"
+    alt="java"
+    title="java"
+    width="30px"
+    style="padding-right: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"  
+    aling="left"
+    alt="java"
+    title="java"
+    width="30px"
+    style="padding-right: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+     aling="left"
+    alt="java"
+    title="java"
+    width="30px"
+    style="padding-right: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg"
+      aling="left"
+    alt="java"
+    title="java"
+    width="30px"
+    style="padding-right: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
+      aling="left"
+    alt="java"
+    title="java"
+    width="30px"
+    style="padding-right: 10px;"
+    />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📊 Estastísticas
+
+<p>
+    <img
+    align="left"
+    alt="GitHub stats"
+    height="150"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=Eryckregis&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  />
+
+<img
+        align="left"
+        alt="GitHub stats"
+        height="150"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eryckregis&theme=tokyonight&layout=compact&custom_title=tecnologias&langs_count=9"
+    />
+<p>
+
+    
+
+    
+
+
+    
