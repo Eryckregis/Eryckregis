@@ -1,7 +1,7 @@
 # 🧑‍💻 Eryck Regis da Silva [<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="25">](https://www.linkedin.com/in/eryck-regis-026b6b356/)
 **`Desenvolvedor Back-end Java`**
 
-Olá Me chamo Eryck Regis da Silva, tenho 18 anos minha naturalidade é Brasilia-DF, Atualmente estou cursando Engenharia de Software na Uniceplac, Sou apaixonado por tecnologia desde criança e estou estudando muito para me tornar um grande desenvolvedor na área de TI.
+Olá Me chamo Eryck Regis da Silva, tenho 19 anos minha naturalidade é Brasilia-DF, Atualmente estou cursando Engenharia de Software na Uniceplac, Sou apaixonado por tecnologia desde criança e estou estudando muito para me tornar um grande desenvolvedor na área de TI.
 
 ### 💻 Linguagens e Tecnologias
 <img
