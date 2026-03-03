@@ -69,30 +69,3 @@ Olá Me chamo Eryck Regis da Silva, tenho 19 anos minha naturalidade é Brasilia
     width="30px"
     style="padding-right: 10px;"
     />
-
-
-### 📊 Estastísticas
-
-<p>
-    <img
-    align="left"
-    alt="GitHub stats"
-    height="150"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=Eryckregis&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-
-<img
-        align="left"
-        alt="GitHub stats"
-        height="150"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eryckregis&theme=tokyonight&layout=compact&custom_title=tecnologias&langs_count=9"
-    />
-<p>
-
-    
-
-    
-
-
-    
